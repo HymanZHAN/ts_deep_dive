@@ -1,3 +1,2 @@
-let num: number = 123;
-
-document.title = "Typescript Courses";
+// import "./example/basic_types";
+import "./example/symbols";
